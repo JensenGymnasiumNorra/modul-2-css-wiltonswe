@@ -18,5 +18,7 @@ Några av nedanstående:
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
 
+Har lagt in padding och margin i en del fildsets för att balansera de olika rubrikerna och knapparna samt lagt oin vilken storlek som fieldset ska ha genom att använda height, och border är fult, gillar inte borders så vi kör på fieldsets istället, så jag skapade en klass tidigare för fieldsets men har lagt till lite attributer i den som t.ex border radius för att fieldsets ska få rundade kanter.
+
 # Extra övning
 Gör exercise på: https://www.w3schools.com/css/css_boxmodel.asp

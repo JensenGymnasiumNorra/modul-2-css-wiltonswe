@@ -19,4 +19,6 @@ Några av nedanstående:
 - text-shadow
 
 # Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift. 
+
+Lagt in olika hemsidor för alla olika recept, gjort om knapparna så de blir fina samt har en funktion som ändrar textfärgen när man svävar med muspekaren över en av de olika recepten. Samt ändrat typsnitt till times new roman och ändrat tjocklek och storlek på rubrikerna.
