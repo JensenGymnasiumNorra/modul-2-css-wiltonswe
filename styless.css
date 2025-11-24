@@ -112,7 +112,7 @@ img {
     width: 40%;
     margin: 10px;
     border-radius: 10px;
-    transition: transform 0.3s ease;
+    transition: transform 0.5s ease;
 }
 
 img:hover {
@@ -171,4 +171,34 @@ img:hover {
     font-weight: bold;
     margin-top: 5px;
     color: inherit;
+}
+
+.ingredienser {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.ingredienser-item1 {
+    text-align: center;
+}
+
+.ingredienser-item2 {
+    text-align: center;
+    width: 30%;
+
+
+}
+
+.instruktioner {
+     width: 100%;
+     text-align: center;
+}
+
+.instruktioner ol{
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+
 }

@@ -15,4 +15,4 @@ Använd dig av det du har lärt dig om float för att anpassa din sida.
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
 
-# floats ät fult, använder inline blocks istället
+# floats ät fult, använder inline blocks istället fröd de är finare

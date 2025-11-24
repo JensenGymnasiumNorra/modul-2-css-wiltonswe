@@ -23,4 +23,4 @@ Vi kommer köra spelet https://flukeout.github.io/ genom exam.net
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
 
-# Jag har lagt in bakrund och fieldsets, samt ändrat bakrunden på dem så att de är genomskinliga. Skapade klassen fieldset och center för att alignea texterna till mitten och stylea alla fieldsets.
+# Jag har lagt in bakrund och fieldsets, samt ändrat bakrunden på dem så att de är genomskinliga. Skapade klassen fieldset och center för att alignea texterna till mitten och stylea alla fieldsets. 
